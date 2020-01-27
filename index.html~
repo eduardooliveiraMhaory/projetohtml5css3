@@ -9,7 +9,7 @@
 
 <body>
     <!--Logo e Nome da Empresa-->
-    <p>Option Designer</p>
+    <p><img src="img/logo.png" width="50px">Option Designer</p>
     <!--Menu do Site-->    
     <nav>
         <ul>
@@ -56,6 +56,6 @@
     </section>
     <!--Fim das Seçoes-->
     <!--Rodapé da pagina-->
-    <footer>Desenvolvido por Eduardo Oliveira</footer>
+    <footer>Desenvolvido por <a href="portifolioeduadooliveira.com.br" target="_blank">Eduardo Oliveira</a></footer>
 </body>
 </html>
