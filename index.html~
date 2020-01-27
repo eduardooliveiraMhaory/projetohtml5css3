@@ -48,9 +48,9 @@
     <section id="contato">
 		<p><h2>Contatos</h2></p>
 		<div>
-		<img src="img/email.jpg" width="30px">
+		<img src="img/email.png" width="30px">
 		<p>E-mail: <a href="mailto:email@empresa.com">email@empresa.com</a></p>
-		<img src="img/fone.jpg" width="30px">
+		<img src="img/fone.png" width="30px">
 		<p>Telefone:<a href="tel:9999999999">99 9999-9999</a></p>
 		</div>
     </section>
