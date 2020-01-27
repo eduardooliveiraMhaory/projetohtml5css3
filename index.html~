@@ -13,10 +13,10 @@
     <!--Menu do Site-->    
     <nav>
         <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#institucional">Institucional</a></li>
-            <li><a href="#serviços">Serviços</a></li>
-            <li><a href="#contato">Contato</a></li>
+            <li>Home</li>
+            <li>Institucional</li>
+            <li>Serviços</li>
+            <li>Contato</li>
         </ul>
     </nav>
     <!--Cabeçalho da pagina-->    
@@ -33,9 +33,6 @@
     </section>
     <section id="serviços">
 		<p><h2>Serviços</h2></p>
-		<div>
-		<img src="img/servico.png">		
-		</div>
     </section>
     <section id="contato">
 		<p><h2>Contatos</h2></p>
