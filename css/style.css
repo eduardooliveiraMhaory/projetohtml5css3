@@ -1,21 +1,60 @@
-/*Estilo da logo*/
-.logo_top{
-
+body{
+	margin:0;
+	padding:0;
 }
-
-/*Fim do estilo da logo*/
 
 /*Etilo do menu*/
 .menu_top{
-
+	/*position: fixed;*/
+	background: #FFC300;
+	margin:0;
+	padding:0;
 }
-
+.menu_top ul{
+	list-style:none;
+	padding: 0px;
+	margin: 0px;
+}
+.menu_top ul li{
+	display: inline;
+}
+.menu_top ul li a{
+	padding: 15px 30px;
+    display: inline-block;
+    color: #FFFFFF;
+    font-family: Arial;
+    text-decoration: none;
+    border-bottom:3px solid #B7B6AD;
+    
+}
 
 /*Fim do estilo do menu*/
 
+/*Estilo da logo*/
+.logo_top p img{
+	width: 50px;
+	margin: 10px 10px 0px 10px;
+	}
+.logo_top p{
+	font-family: Arial;
+	color: #FFFFFF;
+	width: 50px;
+	text-align: center;
+	margin-top:0;
+}
+.logo_top{
+	background:#DAF7A6;
+	padding:5px;
+}
+/*Fim do estilo da logo*/
+
+
 /*Estilo do header*/
 .header_top{
-
+	background: #EDEDED;
+}
+.header_top h1{
+	
 }
 
 /*Fim do estilo do header*/

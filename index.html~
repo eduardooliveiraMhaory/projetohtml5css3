@@ -35,7 +35,7 @@
     </header>
     
     <!--Inicio das Seçoes da Pagina-->
-    <section id="institucional" class="section_ist">
+    <section id="institucional" class="section_inst">
     	<p><h2>Institucional</h2></p>
 		<div>
 		<img src="img/institucional.jpg">
