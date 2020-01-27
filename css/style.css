@@ -6,7 +6,7 @@ body{
 /*Etilo do menu*/
 .menu_top{
 	/*position: fixed;*/
-	background: #FFC300;
+	background: #5217AE;
 	margin:0;
 	padding:0;
 }
@@ -23,27 +23,23 @@ body{
     display: inline-block;
     color: #FFFFFF;
     font-family: Arial;
-    text-decoration: none;
-    border-bottom:3px solid #B7B6AD;
-    
+    text-decoration: none;   
 }
 
 /*Fim do estilo do menu*/
 
 /*Estilo da logo*/
-.logo_top p img{
-	width: 50px;
+.logo_top img{
+	width:100px;
 	margin: 10px 10px 0px 10px;
 	}
 .logo_top p{
 	font-family: Arial;
 	color: #FFFFFF;
-	width: 50px;
-	text-align: center;
 	margin-top:0;
 }
 .logo_top{
-	background:#DAF7A6;
+	background:#815ABD;
 	padding:5px;
 }
 /*Fim do estilo da logo*/
@@ -60,21 +56,22 @@ body{
 /*Fim do estilo do header*/
 
 /*Estilo da seção institucional*/
-.section_inst{
-
+.section_inst img{
+	width:100%;
 }
 
 /*Fim da seção institucional*/
 
 /*Estilo da seção serviços*/
-.section_serv{
-
+.section_serv img{
+	width:100%;
 }
 
 /*Fim da seção serviços*/
 
 /*Estilo da seção contatos*/
-.section_cont{
+.section_cont img{
+	width:30px;
 
 }
 
